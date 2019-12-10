@@ -1,4 +1,5 @@
-# **L4D2 Competitive Rework**
+# **L4D2 Competitive Rework**  
+# **Author：SirPlease**   [Website](https://github.com/SirPlease/L4D2-Competitive-Rework)
 
 <== IMPORTANT NOTICE DON'T IGNORE THIS OKAY?! ===>  
 <------------------ **LINUX SUPPORT ONLY** ------------------>  
